@@ -1,3 +1,6 @@
+<img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/60e3f98d-0bcc-4af5-bf83-06790b01e039" />
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=120&section=header&text=Welcome%20to%20Shri's%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
